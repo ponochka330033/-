@@ -1,0 +1,15 @@
+D:\Desktop\C#\HomWork8\bin\Debug\net7.0\HomWork8.exe
+D:\Desktop\C#\HomWork8\bin\Debug\net7.0\HomWork8.deps.json
+D:\Desktop\C#\HomWork8\bin\Debug\net7.0\HomWork8.runtimeconfig.json
+D:\Desktop\C#\HomWork8\bin\Debug\net7.0\HomWork8.dll
+D:\Desktop\C#\HomWork8\bin\Debug\net7.0\HomWork8.pdb
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\HomWork8.csproj.AssemblyReference.cache
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\HomWork8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\HomWork8.AssemblyInfoInputs.cache
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\HomWork8.AssemblyInfo.cs
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\HomWork8.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\HomWork8.dll
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\refint\HomWork8.dll
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\HomWork8.pdb
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\HomWork8.genruntimeconfig.cache
+D:\Desktop\C#\HomWork8\obj\Debug\net7.0\ref\HomWork8.dll
