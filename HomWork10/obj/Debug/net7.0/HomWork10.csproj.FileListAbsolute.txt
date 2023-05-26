@@ -1,0 +1,15 @@
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\HomWork10.csproj.AssemblyReference.cache
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\HomWork10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\HomWork10.AssemblyInfoInputs.cache
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\HomWork10.AssemblyInfo.cs
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\HomWork10.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\HomWork10\bin\Debug\net7.0\HomWork10.exe
+D:\Desktop\C#\HomWork10\bin\Debug\net7.0\HomWork10.deps.json
+D:\Desktop\C#\HomWork10\bin\Debug\net7.0\HomWork10.runtimeconfig.json
+D:\Desktop\C#\HomWork10\bin\Debug\net7.0\HomWork10.dll
+D:\Desktop\C#\HomWork10\bin\Debug\net7.0\HomWork10.pdb
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\HomWork10.dll
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\refint\HomWork10.dll
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\HomWork10.pdb
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\HomWork10.genruntimeconfig.cache
+D:\Desktop\C#\HomWork10\obj\Debug\net7.0\ref\HomWork10.dll
