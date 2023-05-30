@@ -1,0 +1,15 @@
+D:\Desktop\C#\HomWork25\bin\Debug\net7.0\HomWork25.exe
+D:\Desktop\C#\HomWork25\bin\Debug\net7.0\HomWork25.deps.json
+D:\Desktop\C#\HomWork25\bin\Debug\net7.0\HomWork25.runtimeconfig.json
+D:\Desktop\C#\HomWork25\bin\Debug\net7.0\HomWork25.dll
+D:\Desktop\C#\HomWork25\bin\Debug\net7.0\HomWork25.pdb
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\HomWork25.csproj.AssemblyReference.cache
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\HomWork25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\HomWork25.AssemblyInfoInputs.cache
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\HomWork25.AssemblyInfo.cs
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\HomWork25.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\HomWork25.dll
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\refint\HomWork25.dll
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\HomWork25.pdb
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\HomWork25.genruntimeconfig.cache
+D:\Desktop\C#\HomWork25\obj\Debug\net7.0\ref\HomWork25.dll
