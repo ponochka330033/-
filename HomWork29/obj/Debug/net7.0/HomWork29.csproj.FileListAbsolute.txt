@@ -1,0 +1,15 @@
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\HomWork29.csproj.AssemblyReference.cache
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\HomWork29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\HomWork29.AssemblyInfoInputs.cache
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\HomWork29.AssemblyInfo.cs
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\HomWork29.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\HomWork29\bin\Debug\net7.0\HomWork29.exe
+D:\Desktop\C#\HomWork29\bin\Debug\net7.0\HomWork29.deps.json
+D:\Desktop\C#\HomWork29\bin\Debug\net7.0\HomWork29.runtimeconfig.json
+D:\Desktop\C#\HomWork29\bin\Debug\net7.0\HomWork29.dll
+D:\Desktop\C#\HomWork29\bin\Debug\net7.0\HomWork29.pdb
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\HomWork29.dll
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\refint\HomWork29.dll
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\HomWork29.pdb
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\HomWork29.genruntimeconfig.cache
+D:\Desktop\C#\HomWork29\obj\Debug\net7.0\ref\HomWork29.dll
