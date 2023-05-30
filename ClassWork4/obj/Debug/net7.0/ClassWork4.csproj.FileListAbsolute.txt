@@ -1,0 +1,15 @@
+D:\Desktop\C#\ClassWork4\bin\Debug\net7.0\ClassWork4.exe
+D:\Desktop\C#\ClassWork4\bin\Debug\net7.0\ClassWork4.deps.json
+D:\Desktop\C#\ClassWork4\bin\Debug\net7.0\ClassWork4.runtimeconfig.json
+D:\Desktop\C#\ClassWork4\bin\Debug\net7.0\ClassWork4.dll
+D:\Desktop\C#\ClassWork4\bin\Debug\net7.0\ClassWork4.pdb
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ClassWork4.csproj.AssemblyReference.cache
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ClassWork4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ClassWork4.AssemblyInfoInputs.cache
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ClassWork4.AssemblyInfo.cs
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ClassWork4.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ClassWork4.dll
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\refint\ClassWork4.dll
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ClassWork4.pdb
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ClassWork4.genruntimeconfig.cache
+D:\Desktop\C#\ClassWork4\obj\Debug\net7.0\ref\ClassWork4.dll
