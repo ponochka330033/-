@@ -1,0 +1,15 @@
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\HomWork23.csproj.AssemblyReference.cache
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\HomWork23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\HomWork23.AssemblyInfoInputs.cache
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\HomWork23.AssemblyInfo.cs
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\HomWork23.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\HomWork23\bin\Debug\net7.0\HomWork23.exe
+D:\Desktop\C#\HomWork23\bin\Debug\net7.0\HomWork23.deps.json
+D:\Desktop\C#\HomWork23\bin\Debug\net7.0\HomWork23.runtimeconfig.json
+D:\Desktop\C#\HomWork23\bin\Debug\net7.0\HomWork23.dll
+D:\Desktop\C#\HomWork23\bin\Debug\net7.0\HomWork23.pdb
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\HomWork23.dll
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\refint\HomWork23.dll
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\HomWork23.pdb
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\HomWork23.genruntimeconfig.cache
+D:\Desktop\C#\HomWork23\obj\Debug\net7.0\ref\HomWork23.dll
