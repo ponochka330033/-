@@ -1,0 +1,15 @@
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ClassWork3.csproj.AssemblyReference.cache
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ClassWork3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ClassWork3.AssemblyInfoInputs.cache
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ClassWork3.AssemblyInfo.cs
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ClassWork3.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\ClassWork3\bin\Debug\net7.0\ClassWork3.exe
+D:\Desktop\C#\ClassWork3\bin\Debug\net7.0\ClassWork3.deps.json
+D:\Desktop\C#\ClassWork3\bin\Debug\net7.0\ClassWork3.runtimeconfig.json
+D:\Desktop\C#\ClassWork3\bin\Debug\net7.0\ClassWork3.dll
+D:\Desktop\C#\ClassWork3\bin\Debug\net7.0\ClassWork3.pdb
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ClassWork3.dll
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\refint\ClassWork3.dll
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ClassWork3.pdb
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ClassWork3.genruntimeconfig.cache
+D:\Desktop\C#\ClassWork3\obj\Debug\net7.0\ref\ClassWork3.dll
