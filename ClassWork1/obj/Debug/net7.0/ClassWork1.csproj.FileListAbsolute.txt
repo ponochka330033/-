@@ -1,0 +1,15 @@
+D:\Desktop\C#\ClassWork1\bin\Debug\net7.0\ClassWork1.exe
+D:\Desktop\C#\ClassWork1\bin\Debug\net7.0\ClassWork1.deps.json
+D:\Desktop\C#\ClassWork1\bin\Debug\net7.0\ClassWork1.runtimeconfig.json
+D:\Desktop\C#\ClassWork1\bin\Debug\net7.0\ClassWork1.dll
+D:\Desktop\C#\ClassWork1\bin\Debug\net7.0\ClassWork1.pdb
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ClassWork1.csproj.AssemblyReference.cache
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ClassWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ClassWork1.AssemblyInfoInputs.cache
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ClassWork1.AssemblyInfo.cs
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ClassWork1.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ClassWork1.dll
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\refint\ClassWork1.dll
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ClassWork1.pdb
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ClassWork1.genruntimeconfig.cache
+D:\Desktop\C#\ClassWork1\obj\Debug\net7.0\ref\ClassWork1.dll
