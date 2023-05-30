@@ -1,0 +1,15 @@
+D:\Desktop\C#\HomWork19\bin\Debug\net7.0\HomWork19.exe
+D:\Desktop\C#\HomWork19\bin\Debug\net7.0\HomWork19.deps.json
+D:\Desktop\C#\HomWork19\bin\Debug\net7.0\HomWork19.runtimeconfig.json
+D:\Desktop\C#\HomWork19\bin\Debug\net7.0\HomWork19.dll
+D:\Desktop\C#\HomWork19\bin\Debug\net7.0\HomWork19.pdb
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\HomWork19.csproj.AssemblyReference.cache
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\HomWork19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\HomWork19.AssemblyInfoInputs.cache
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\HomWork19.AssemblyInfo.cs
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\HomWork19.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\HomWork19.dll
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\refint\HomWork19.dll
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\HomWork19.pdb
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\HomWork19.genruntimeconfig.cache
+D:\Desktop\C#\HomWork19\obj\Debug\net7.0\ref\HomWork19.dll
