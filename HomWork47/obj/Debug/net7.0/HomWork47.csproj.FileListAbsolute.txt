@@ -1,0 +1,15 @@
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\HomWork47.csproj.AssemblyReference.cache
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\HomWork47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\HomWork47.AssemblyInfoInputs.cache
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\HomWork47.AssemblyInfo.cs
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\HomWork47.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\HomWork47\bin\Debug\net7.0\HomWork47.exe
+D:\Desktop\C#\HomWork47\bin\Debug\net7.0\HomWork47.deps.json
+D:\Desktop\C#\HomWork47\bin\Debug\net7.0\HomWork47.runtimeconfig.json
+D:\Desktop\C#\HomWork47\bin\Debug\net7.0\HomWork47.dll
+D:\Desktop\C#\HomWork47\bin\Debug\net7.0\HomWork47.pdb
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\HomWork47.dll
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\refint\HomWork47.dll
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\HomWork47.pdb
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\HomWork47.genruntimeconfig.cache
+D:\Desktop\C#\HomWork47\obj\Debug\net7.0\ref\HomWork47.dll
