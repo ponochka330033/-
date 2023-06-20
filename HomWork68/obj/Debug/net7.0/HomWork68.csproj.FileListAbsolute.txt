@@ -1,0 +1,15 @@
+D:\Desktop\C#\HomWork68\bin\Debug\net7.0\HomWork68.exe
+D:\Desktop\C#\HomWork68\bin\Debug\net7.0\HomWork68.deps.json
+D:\Desktop\C#\HomWork68\bin\Debug\net7.0\HomWork68.runtimeconfig.json
+D:\Desktop\C#\HomWork68\bin\Debug\net7.0\HomWork68.dll
+D:\Desktop\C#\HomWork68\bin\Debug\net7.0\HomWork68.pdb
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\HomWork68.csproj.AssemblyReference.cache
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\HomWork68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\HomWork68.AssemblyInfoInputs.cache
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\HomWork68.AssemblyInfo.cs
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\HomWork68.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\HomWork68.dll
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\refint\HomWork68.dll
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\HomWork68.pdb
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\HomWork68.genruntimeconfig.cache
+D:\Desktop\C#\HomWork68\obj\Debug\net7.0\ref\HomWork68.dll
